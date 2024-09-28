@@ -2,6 +2,7 @@
 
 <!--
 **slowonstairs/slowonstairs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elementary teacher who is a tech nerd. Promoting STEM based learning at early age to introduce concepts and challenge those that need a challenge.
 
 Here are some ideas to get you started:
 
